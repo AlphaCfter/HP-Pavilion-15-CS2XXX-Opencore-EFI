@@ -7,10 +7,12 @@
 <p align="center">
   <strong>Opencore 1.0.0</strong>  
 </p>
+<br>
 
-<div style="background-color: #e72a2a; color: black; solid red; padding: 10px; border-radius: 5px;">
-  <strong>Warning:</strong> This EFI only supports OpenCore and will <strong>not support Clover bootloader</strong>
-</div>
+
+> ⚠️ **Warning:** This EFI only supports **OpenCore** and will **not support Clover bootloader**.
+
+
 
 ### **📝 MacOS BigSur Hackintosh**
 ![](/Docs/Image.jpg)
@@ -27,11 +29,11 @@ I assume you already have a copy of the OS image. If not, click [here](/Docs/Dis
 - **Storage 2:** Micron 1100 SATA M.2 SSD  
 - **Display:** Touchscreen Generic PnP Monitor  
 - **Battery:** Original HP Battery (**Removed**)  
+<br>
 
+> ⚠️ **Warning:** Carefully review the **underlined** specifications above and compare them with your hardware.  
+> If even a single spec does not match, **avoid using this EFI**, as it will simply not work.
 
-<div style="background-color: #e72a2a; color: black; solid red; padding: 10px; border-radius: 5px;">
-  <strong>Warning:</strong>  Carefully review the <b>underlined</b> specifications above and compare them with your hardware. If even a single spec does not match, avoid using this EFI, as it will simply not work
-</div>
 
 
 ### **📋 Compatibility**
