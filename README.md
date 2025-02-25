@@ -47,13 +47,13 @@ I assume you already have a copy of the OS image. If not, click [here](/Docs/Dis
 | **Audio**        | ✅ Works  | Requires AppleALC |
 | **Sleep/Wake**   |  🟡 Not Tested | -- |
 | **USB Ports**    | ⚠️ Partial | Needs USB mapping for full functionality |
-| **iServices/AirDrop** | 🟡 Not Tested | Requires proper SMBIOS configuration |
+| **iServices/AirDrop** | ✅ Works | Requires proper SMBIOS configuration |
 | **SD CARD** | ❌ Not Working | SD Cards are not yet supported |
 | **Internal Microphone** | ✅ Works | Works with AppleALC |
 | **Storage** | ✅ Works | Works with an SATA drive |
 | **Touchpad/Keyboard** | ✅ Works | Works with VoodooPS2 and PS/2 |
 | **Touchscreen** | ✅ Works | Works with Voodoo2C |
-| **3.5mm Jack** | 🟡 Not Tested | -- |
+| **3.5mm Jack** | ✅ Works | Works with AppleALC |
 | **HDMI** | 🟡 Not Tested | -- |
 | **Ethernet/RJ45** | ✅ Works | -- |
 | **Brightness Hotkeys** | ✅ Works | BrightnessKeys kexts |
